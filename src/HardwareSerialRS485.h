@@ -33,7 +33,7 @@ from the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
     #error "HardwareSerial.h already loaded. You have not selected an RS485 specific board, or your boards.txt file is incomplete (see documentation https://github.com/MichaelJonker/HardwareSerialRS485/wiki/installation-and-deployment)."
 #endif
 
-#include "utility/Messagefilter.h"
+#include "utility/MessageFilter.h"
 #include "utility/HardwareSerialRS485_Helper.h"
 #include "utility/HardwareSerialRS485_Enabled.h"
 
